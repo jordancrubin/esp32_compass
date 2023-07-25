@@ -1,3 +1,12 @@
+/*
+  ESP32_Compass - Programme to demonstrate functionality of HMC5883 triple
+  axis magnetic sensor in conjunction with an LCD display.  Graphical code 
+  adaptation from Volos Projects https://www.youtube.com/@VolosProjects
+  for rotating display.
+  https://www.youtube.com/c/jordanrubin6502
+  2023 Jordan Rubin.
+*/
+
 #include <Arduino.h>
 #include <TFT_eSPI.h> 
 #include <QMC5883LCompass.h>
