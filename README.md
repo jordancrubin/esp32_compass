@@ -4,7 +4,7 @@ ESP32_Compass - A Programme to demonstrate functionality of HMC5883 triple
   adaptation from Volos Projects https://www.youtube.com/@VolosProjects
   for rotating display. Great work with TFT-ESPI.
 
-  This project can be found at [channel here].  
+  This project can be found at  https://youtu.be/XXQPtiGNRaU
 
   Im using my 240x240 display though a TTgo t-display would also work well.  Its
   import and to set the alignment to the display such that it is in phase to be flipped 
